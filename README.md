@@ -1,0 +1,2 @@
+# mani_app
+qwerty
